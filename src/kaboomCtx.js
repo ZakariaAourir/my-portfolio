@@ -5,4 +5,5 @@ export const k = kaboom({
     touchToMouse: true,
     canvas: document.getElementById('game'),
     background: [49, 16, 71],
+    debug: false,
 });
